@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AdtyaShah
-- 👀 I’m interested in Game Dev & AIML
+- 👀 I’m interested in Data Engineering and Machine Learning.
 - 🌱 I’m currently learning Computer Science
