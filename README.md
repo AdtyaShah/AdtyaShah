@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AdtyaShah
-- 👀 I’m interested in Data Engineering and Machine Learning.
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in the world of data; the analysis surrounding it and handling of it.
+- 🌱 Looking forward to work with you all.
