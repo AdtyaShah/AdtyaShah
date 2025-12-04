@@ -3,8 +3,6 @@
 - 🌱 Looking forward to work with you all.
 
 - Projects made by me -
-
-
 - Invoice Ingestion, Extraction & Validation Pipeline Service.
 - Dynamic Content Streaming Platform with Kafka.
 - Weather Analytics & Forecasting System.
